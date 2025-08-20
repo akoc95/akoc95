@@ -1,4 +1,4 @@
-![GitHub Stats](https://versel-fork.vercel.app/api?username=akoc95&count_private=true)
+![GitHub Stats](https://versel-fork.vercel.app/api?username=akoc95&count_private=true&layout=compact&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akoc95&layout=compact&theme=radical)
 
